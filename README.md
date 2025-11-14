@@ -13,7 +13,7 @@ Now, I’m blending my healthcare experience with my love for problem-solving an
 * 🌍  I'm based in Mexico
 * ✉️  You can contact me at [maturanodotor@gmail.com](mailto:maturanodotor@gmail.com)
 
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdrbXliM2ZiY3NoODNhNWJsZGFxNGd5a3Q2bXEzdzc1bGI3Z3JjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WAsTxZegUoGoBQLSFq/giphy.gif
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/KarenDotor" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/KarenDotor" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
