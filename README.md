@@ -3,7 +3,7 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
- ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)    Hi! I'm Karen Dotor
+ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)    <h1 align="center">Hi 👋 I'm Karen </h1>
 ====================================================================================================================================
 
 📖 QA Enginner student
