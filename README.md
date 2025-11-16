@@ -1,5 +1,6 @@
 
 
+
  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Karen Dotor
 ====================================================================================================================================
 
@@ -9,6 +10,13 @@
 Before stepping into the tech world, I spent years working in hospitals and private clinics as a Physical Therapist. During the pandemic, as technology became essential for staying connected with patients, my curiosity for IT grew into a real passion.
 
 Now, I’m blending my healthcare experience with my love for problem-solving and quality. I’m also passionate about traveling, discovering new cultures, and learning new languages — anything that expands my perspective.
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+</div>
+
 
 * 🌍  I'm based in Mexico
 * ✉️  You can contact me at [maturanodotor@gmail.com](mailto:maturanodotor@gmail.com)
